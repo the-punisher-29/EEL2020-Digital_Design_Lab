@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+A = 1001, B = 0100, Subtraction?: 1, C_out_Sign: 0, Output value:  5
+A = 0100, B = 1000, Subtraction?: 1, C_out_Sign: 1, Output value:  4
+Invalid BCD input
+A = 0010, B = 0110, Subtraction?: 0, C_out_Sign: 0, Output value:  8
+A = 0111, B = 0110, Subtraction?: 0, C_out_Sign: 1, Output value: 19
+A = 1001, B = 1001, Subtraction?: 0, C_out_Sign: 1, Output value: 24
+$finish called at time : 240 ns : File "C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_04/Lab_04_adder_subtractor/Lab_04_adder_subtractor.srcs/sim_2/new/testbench.v" Line 89

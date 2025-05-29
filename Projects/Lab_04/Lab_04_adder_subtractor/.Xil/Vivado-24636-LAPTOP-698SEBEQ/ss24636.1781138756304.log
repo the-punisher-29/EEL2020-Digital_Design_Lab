@@ -1,0 +1,6 @@
+ssrcscan startsIsrcscan exits with return value 0
+9002)
+INFO: analyzing module add_sub (VERI-9002)
+C:/Users/mauli/AppData/Local/Temp/VivadoEditorAssist9820765470044743612.tmp(83): INFO: undeclared symbol 'out_val', assumed default net type 'wire' (VERI-2561)
+INFO: analyzing module testbench (VERI-9002)
+srcscan exits with return value 0

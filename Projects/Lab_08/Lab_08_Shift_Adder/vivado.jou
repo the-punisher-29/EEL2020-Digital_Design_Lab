@@ -1,0 +1,37 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Apr 21 23:19:42 2024
+# Process ID: 18108
+# Current directory: C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5200 C:\Users\mauli\OneDrive\Desktop\DD Lab\Projects\Lab_08\Lab_08_Shift_Adder\Lab_08_Shift_Adder.xpr
+# Log file: C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder/vivado.log
+# Journal file: C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder\vivado.jou
+# Running On: LAPTOP-698SEBEQ, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 4, Host memory: 8362 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder/Lab_08_Shift_Adder.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_2
+launch_simulation -simset [get_filesets sim_2 ]
+update_compile_order -fileset sim_2
+launch_simulation -simset [get_filesets sim_2 ]
+launch_simulation -simset [get_filesets sim_2 ]
+source tb.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_2 ]
+source tb.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_2 ]
+source tb.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_2 ]
+source tb.tcl
+close_sim
+launch_simulation -simset [get_filesets sim_2 ]
+source tb.tcl
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_design
+close_sim

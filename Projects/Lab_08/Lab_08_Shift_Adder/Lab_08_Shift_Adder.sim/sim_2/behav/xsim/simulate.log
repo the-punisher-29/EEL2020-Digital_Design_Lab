@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+regA = xxxx, regB = xxxx, co = 0, cout_f = x
+regA = 0000, regB = 0000, co = 0, cout_f = x
+regA = 0000, regB = 0000, co = 0, cout_f = x
+regA = 1011, regB = 0000, co = 0, cout_f = x
+regA = 1011, regB = 0000, co = 0, cout_f = x
+regA = 1011, regB = 0110, co = 0, cout_f = x
+regA = 1011, regB = 0110, co = 0, cout_f = x
+regA = 1101, regB = 0011, co = 0, cout_f = 0
+regA = 0110, regB = 0001, co = 0, cout_f = 1
+regA = 0011, regB = 0000, co = 0, cout_f = 1
+regA = 0001, regB = 0000, co = 0, cout_f = 1
+regA = 0000, regB = 0000, co = 0, cout_f = 1
+regA = 1000, regB = 0000, co = 0, cout_f = 0
+regA = 0100, regB = 0000, co = 0, cout_f = 0
+regA = 0010, regB = 0000, co = 0, cout_f = 0
+regA = 0001, regB = 0000, co = 0, cout_f = 0
+$finish called at time : 160 ns : File "C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder/Lab_08_Shift_Adder.srcs/sim_2/new/tb.v" Line 79

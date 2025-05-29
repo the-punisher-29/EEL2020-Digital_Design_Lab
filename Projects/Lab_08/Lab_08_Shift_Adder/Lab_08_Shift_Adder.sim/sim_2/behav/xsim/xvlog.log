@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder/Lab_08_Shift_Adder.srcs/sources_1/new/serialAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serialAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauli/OneDrive/Desktop/DD Lab/Projects/Lab_08/Lab_08_Shift_Adder/Lab_08_Shift_Adder.srcs/sim_2/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
